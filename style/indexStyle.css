@@ -1,0 +1,131 @@
+body {
+    background-color: rgb(253, 253, 253);
+}
+
+div.mainTitle {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    width: 100% !important;
+    background-color: rgba(131, 0, 0, 0.103);
+}
+
+.separationLine {
+    background-color: darkred;
+    width: 100% !important;
+    height: 3px;
+}
+
+div.avatar {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.nameTitle {
+    color: rgb(105, 96, 96);
+    text-align: center;
+}
+
+.subTitle {
+    color: rgb(105, 96, 96);
+    text-align: center;
+}
+
+.paragraph1 {
+    text-align: center;
+}
+
+.paragraph2 {
+    text-align: center;
+}
+
+.separationLine2 {
+    background-color: darkred;
+    width: 100% !important;
+    height: 3px;
+}
+
+.containerImgs {
+    display: flex;
+}
+
+div.javaImg {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 70px;
+    width: 70px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+div.androidImg {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 60px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+div.flutterImg {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 60px;
+    width: 60px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.containerFooter {
+    display: flex;
+}
+
+.twitterImg {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.instagramImg {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.githubImg {
+    margin: 0 auto;
+    /* tamano del circulo */
+    height: 50px;
+    width: 50px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.separationLine3 {
+    background-color: darkred;
+    width: 100% !important;
+    height: 3px;
+}
